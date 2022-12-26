@@ -3,7 +3,7 @@ from pprint import pprint
 from yadisk import YaDisk
 
 
-token = 'y0_AgAAAABnXkMwAADLWwAAAADXyuj8CBOXgvOrQxyZv_mcmWW-QRP48Rw'
+token = '***'
 class YaUploader:
     host = 'https://cloud-api.yandex.net:443'
     def __init__(self, token: str):
